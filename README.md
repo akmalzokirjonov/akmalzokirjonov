@@ -1,32 +1,52 @@
-# Hi, I'm Akmal Zokirjonov 👋
+<img src="./assets/profile-header.svg" width="100%" alt="Akmal Zokirjonov — Full-stack developer. Web products, automation, and Telegram bots." />
 
-Full-stack developer based in Tashkent, Uzbekistan. I build practical web products, automation tools, and Telegram bots with a focus on clear user experiences and reliable backend systems.
+I build web applications, workflow automation tools, and Telegram bots. My focus is on clear user experiences and maintainable backend systems.
 
-## What I work with
+Based in **Tashkent, Uzbekistan** · Working with **[@fizmasoft](https://github.com/fizmasoft)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[Explore my projects](#selected-projects) · [Technology stack](#technology-stack) · [Current focus](#current-focus)
 
 ## Selected projects
 
-- **[AI Administrator](https://github.com/akmalzokirjonov/ai-administrator)** — a conversion-focused landing page for an AI-assisted Telegram sales administrator. [Live demo](https://akmalzokirjonov.github.io/ai-administrator/)
-- **[All Saver Bot](https://github.com/akmalzokirjonov/all-saver-bot)** — a multilingual Telegram media downloader built with Python, aiogram, yt-dlp, Redis, and Docker.
-- **[Telegram Do'kon](https://github.com/akmalzokirjonov/telegram-dokon)** — a responsive storefront landing page designed for Telegram-based commerce.
+### [All Saver Bot](https://github.com/akmalzokirjonov/all-saver-bot)
+
+A Telegram media downloader with English, Uzbek, and Russian interfaces. Includes download quality selection, retries, rate limiting, and Docker deployment.
+
+`Python` `aiogram` `yt-dlp` `Redis` `Docker`
+
+[View source & setup guide →](https://github.com/akmalzokirjonov/all-saver-bot#readme)
+
+### [AI Administrator](https://github.com/akmalzokirjonov/ai-administrator)
+
+An Uzbek-language landing page for an AI-assisted Telegram sales administrator. Presents the product through a customer conversation comparison, responsive layouts, and clear calls to action.
+
+`HTML` `Tailwind CSS` `JavaScript` `GitHub Pages`
+
+[Live demo →](https://akmalzokirjonov.github.io/ai-administrator/) · [View source](https://github.com/akmalzokirjonov/ai-administrator)
+
+### [Telegram Do'kon](https://github.com/akmalzokirjonov/telegram-dokon)
+
+A responsive Uzbek-language storefront landing page for Telegram commerce. Brings product features, pricing, and a three-step setup flow into a lightweight, single-page experience.
+
+`HTML` `CSS` `GitHub Pages`
+
+[Live demo →](https://akmalzokirjonov.github.io/telegram-dokon/) · [View source](https://github.com/akmalzokirjonov/telegram-dokon)
+
+## Technology stack
+
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | TypeScript, React, HTML, CSS |
+| Backend | Node.js, NestJS, Python |
+| Data & deployment | PostgreSQL, Redis, Docker |
+| Telegram & automation | aiogram, yt-dlp |
 
 ## Current focus
 
-- Building maintainable full-stack applications
-- Automating repetitive business workflows
-- Creating useful AI-assisted products for Uzbek-speaking users
-
-I work with **[@fizmasoft](https://github.com/fizmasoft)** and enjoy turning real operational problems into simple software.
+- Building maintainable full-stack applications.
+- Automating repetitive business workflows.
+- Creating useful AI-assisted products for Uzbek-speaking users.
 
 ---
 
-Open to collaboration on web applications, automation, and Telegram products.
+**Open to collaboration** on web applications, automation, and Telegram products.
