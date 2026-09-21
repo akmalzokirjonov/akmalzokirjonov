@@ -8,6 +8,14 @@ Based in **Tashkent, Uzbekistan** · Working with **[@fizmasoft](https://github.
 
 ## Selected projects
 
+### [PravaBor](https://www.pravabor.uz)
+
+A driving theory practice platform for Uzbekistan, with timed exams, topic-based practice, mistake review, and progress tracking. Available in Uzbek Latin, Uzbek Cyrillic, and Russian.
+
+`Next.js` `React` `TypeScript` `Firebase` `Tailwind CSS`
+
+[Live platform →](https://www.pravabor.uz) · [Project showcase](https://github.com/akmalzokirjonov/pravabor-showcase) · Application source is private.
+
 ### [All Saver Bot](https://github.com/akmalzokirjonov/all-saver-bot)
 
 A Telegram media downloader with English, Uzbek, and Russian interfaces. Includes download quality selection, retries, rate limiting, and Docker deployment.
@@ -24,19 +32,11 @@ An Uzbek-language landing page for an AI-assisted Telegram sales administrator. 
 
 [Live demo →](https://akmalzokirjonov.github.io/ai-administrator/) · [View source](https://github.com/akmalzokirjonov/ai-administrator)
 
-### [Telegram Do'kon](https://github.com/akmalzokirjonov/telegram-dokon)
-
-A responsive Uzbek-language storefront landing page for Telegram commerce. Brings product features, pricing, and a three-step setup flow into a lightweight, single-page experience.
-
-`HTML` `CSS` `GitHub Pages`
-
-[Live demo →](https://akmalzokirjonov.github.io/telegram-dokon/) · [View source](https://github.com/akmalzokirjonov/telegram-dokon)
-
 ## Technology stack
 
 | Area | Technologies |
 | :--- | :--- |
-| Frontend | TypeScript, React, HTML, CSS |
+| Frontend | TypeScript, React, Next.js, HTML, CSS |
 | Backend | Node.js, NestJS, Python |
 | Data & deployment | PostgreSQL, Redis, Docker |
 | Telegram & automation | aiogram, yt-dlp |
@@ -49,4 +49,4 @@ A responsive Uzbek-language storefront landing page for Telegram commerce. Bring
 
 ---
 
-**Open to collaboration** on web applications, automation, and Telegram products.
+**Open to collaboration** on web applications, automation, and Telegram products. [Get in touch on Telegram →](https://t.me/zokirroff)
