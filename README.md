@@ -16,13 +16,13 @@ A driving theory practice platform for Uzbekistan, with timed exams, topic-based
 
 [Live platform →](https://www.pravabor.uz) · [Project showcase](https://github.com/akmalzokirjonov/pravabor-showcase) · Application source is private.
 
-### [All Saver Bot](https://github.com/akmalzokirjonov/all-saver-bot)
+### [AURA AI Studio](https://akmalzokirjonov.github.io/aura-ai-studio/)
 
-A Telegram media downloader with English, Uzbek, and Russian interfaces. Includes download quality selection, retries, rate limiting, and Docker deployment.
+A black-and-gold creative studio with free AI image generation, a connected canvas, and responsive previews. Generate images with AI Horde, explore ideas, and save the results.
 
-`Python` `aiogram` `yt-dlp` `Redis` `Docker`
+`JavaScript` `HTML` `CSS` `AI Horde` `GitHub Pages`
 
-[View source & setup guide →](https://github.com/akmalzokirjonov/all-saver-bot#readme)
+[Live studio →](https://akmalzokirjonov.github.io/aura-ai-studio/) · [View source](https://github.com/akmalzokirjonov/aura-ai-studio)
 
 ### [AI Administrator](https://github.com/akmalzokirjonov/ai-administrator)
 
